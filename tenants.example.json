@@ -1,0 +1,19 @@
+[
+  {
+    "id": "acme",
+    "name": "Acme Analytics",
+    "status": "active",
+    "accounts": [
+      {"id": "acct-002", "name": "Research", "lifecycle": "closed"},
+      {"id": "acct-001", "name": "Operations", "lifecycle": "active"}
+    ]
+  },
+  {
+    "id": "harbor",
+    "name": "Harbor Labs",
+    "status": "paused",
+    "accounts": [
+      {"id": "acct-003", "name": "Core", "lifecycle": "active"}
+    ]
+  }
+]
